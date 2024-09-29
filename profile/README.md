@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to EElab.dev 👋
+
+This page shows a collection of Electronics Engineering projects developed at [The University of Edinburgh](https://www.ed.ac.uk/), Scotland, UK. For further information, please contact [Dr Danial Chitnis](https://www.eng.ed.ac.uk/about/people/dr-danial-chitnis)
 
 <!--
 
